@@ -1,7 +1,6 @@
 {
   "name": "capham/laravel-sidebar",
   "description": "A sidebar builder for Laravel",
-  "license": "LGPL",
   "keywords": [
     "laravel",
     "sidebar",
@@ -36,6 +35,7 @@
       "Maatwebsite\\Sidebar\\": "src/"
     }
   },
+  "minimum-stability": "dev",
   "config": {
     "preferred-install": "dist"
   }
